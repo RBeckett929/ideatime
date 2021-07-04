@@ -1,2 +1,5 @@
 # ideatime
-Objective:
+Objectives:
+Determine capabilties
+Provide structure of workflows
+Determine required modules
